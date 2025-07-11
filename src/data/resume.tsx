@@ -142,7 +142,7 @@ export const DATA = {
     },
     {
       school: 'Coursera',
-      href: 'https://coursera.org',
+      href: 'https://coursera.org/verify/5N8YLDWY8UQT',
       degree: 'Digital Transformation with Google Cloud',
       logoUrl: '/coursera.png',
       start: '2023',
@@ -150,7 +150,7 @@ export const DATA = {
     },
     {
       school: 'Coursera',
-      href: 'https://coursera.org',
+      href: 'https://www.credly.com/badges/1b808dc4-826a-445b-bc89-cd49ddbb9785/linked_in_profile',
       degree: 'Python for Data Science and AI By IBM',
       logoUrl: '/coursera.png',
       start: '2023',
@@ -158,7 +158,7 @@ export const DATA = {
     },
     {
       school: 'Coursera',
-      href: 'https://coursera.org',
+      href: 'https://coursera.org/verify/MUW87JTTG6AP',
       degree: 'Introduction to Generative AI Google Cloud',
       logoUrl: '/coursera.png',
       start: '2023',
